@@ -2,7 +2,7 @@
 
 **`Developer`**
 
-I’m full-stack developer who plans and designs applications to meet client needs. Currently I am interested in learning more about system design. The best way to reach me is either through email or linkedin. 
+I’m full-stack developer who plans and designs applications to meet client needs. Currently I am interested in learning more about systems design. The best way to reach me is either through email or linkedin. 
 
 ### Languages and Tools
 
