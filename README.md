@@ -1,13 +1,13 @@
 # Carlos Jimenez
 **`Software Engineer · San Diego, CA`**
 
-I build tools that work in the real world — from **mission-critical desktop apps for the San Diego Fire Department** to automation systems, trading tools, and self-hosted infrastructure. I care about reliability, clean architecture, and shipping things that actually get used.
+I build tools that work in the real world — from **mission-critical desktop apps for the San Diego Fire Department** to internal developer tooling, automation systems, and self-hosted infrastructure. I care about reliability, clean architecture, and shipping things that actually get used.
 
 Currently working with **Flutter · Python · C# · RabbitMQ** on public safety software, while building personal projects across automation, data, and systems tooling.
 
 - 🚒 Building CADSOS enhancements, paging features, and incident map layers for the fire department
-- 🤖 Built **RoboCAD** — an incident automation engine that monitors CAD state changes and coordinates backend services via remote execution
-- 🌐 Launching a personal portfolio with React, TypeScript, and Vite — self-hosted on Raspberry Pi
+- 🗄️ Built **TorchDocTool** — a browser-based schema documentation system that attaches metadata directly to SQL Server columns via extended properties
+- 🗺️ Integrated ArcGIS maps into Flutter with full bidirectional state sync between Flutter and React clients
 - 🔒 Self-hosted infrastructure enthusiast (WireGuard VPN, Raspberry Pi 5, no-cloud-preferred)
 
 The best way to reach me is via email or LinkedIn.
@@ -18,13 +18,10 @@ The best way to reach me is via email or LinkedIn.
 
 | Project | Stack | Description |
 |---|---|---|
-| **Flutter Dispatch App** | Flutter, Dart, RabbitMQ, SQL Server, Riverpod | Live incident tracking app for the fire department. RPC-style messaging, polling streams, designed for restricted offline environments |
-| **RoboCAD** | Python, C# | Monitors incoming CAD incidents, detects state changes, executes automated scripts, and coordinates backend services via schtasks remote execution |
+| **CADSOS** | Flutter, Dart, RabbitMQ, SQL Server, Riverpod | Live incident tracking app for the fire department. RPC-style messaging, polling streams, designed for restricted offline environments |
+| **TorchDocTool** | React, JavaScript, SQL Server | Browser-based schema documentation tool. Attaches structured metadata to SQL Server tables and columns using extended properties — documentation lives inside the database itself |
 | **ArcGIS Map Integration** | React, ArcGIS JS API, Flutter, WebSocket | Embedded ArcGIS map in Flutter via WebView with bidirectional state sync between Flutter and React clients |
 | **Aircraft Ordering App** | Flutter, Python, C#/.NET, SQL Server | Multi-layer RPC architecture: Flutter → Python → C#/.NET with SQL Server logging |
-| **Today in History Bot** | Python, AWS Lambda | Serverless Twitter bot that auto-generates daily history posts from historical event and NASA APIs |
-| **News Sentiment Scraper** | Python | Collects headlines from multiple sources, analyzes sentiment, and plots trends over time |
-| **Windows Software Scanner** | Python | Scans Windows systems for installed executables, skips noise dirs, and produces a clean app inventory |
 | **Interface Restart Automation** | Python, schtasks | Matches interface names to servers and triggers remote scheduled task restarts via PsExec |
 
 ---
