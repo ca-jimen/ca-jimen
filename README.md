@@ -10,7 +10,7 @@ Currently working with **Flutter · Python · C# · RabbitMQ** on public safety 
 - 🔒 Self-hosted infrastructure (WireGuard VPN, Raspberry Pi 5, Nginx — no cloud preferred)
 - 🎓 B.S. Computer Science — Cal State San Marcos
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jimenezcarlos-/) or at carlosjimenez.eng@gmail.com
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jimenezcarlos-/) or [Email](mailto:carlosjimenez.eng@gmail.com)
 
 ---
 
